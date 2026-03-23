@@ -1,0 +1,1 @@
+import { MultipleSelectList } from 'react-native-dropdown-select-list'
